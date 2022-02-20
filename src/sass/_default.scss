@@ -1,0 +1,24 @@
+$main-color: #f1eeee;
+$black-color: #000;
+$white-color: #fff;
+$transition-duration: 350ms;
+
+$mobile: 480px;
+$tablet: 768px;
+$desktop: 1200px;
+
+button {
+    cursor: pointer;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+
+textarea {
+  resize: none;
+}
